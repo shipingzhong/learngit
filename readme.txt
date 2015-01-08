@@ -1,1 +1,2 @@
-我们中国是人类历史上最为伟大的国家
+Git is a distributed version control system.
+Git is free software.
